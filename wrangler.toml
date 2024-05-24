@@ -1,4 +1,4 @@
-name = "まったりブログ"
+name = "my-pages-app"
 pages_build_output_dir = "./public"
 [vars]
 CF_PAGES_URL="https://blog.example.com"
