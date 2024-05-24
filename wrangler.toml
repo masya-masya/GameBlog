@@ -1,7 +1,7 @@
 name = "my-pages-app"
 pages_build_output_dir = "./public"
 [vars]
-CF_PAGES_URL="https://blog.example.com"
+CF_PAGES_URL="https://gameblog.pages.dev"
 HUGO_VERSION="v0.126.1+extended"
 NODE_VERSION="22.2.0"
 NPM_VERSION="10.7.0"

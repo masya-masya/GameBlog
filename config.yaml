@@ -1,4 +1,4 @@
-baseURL: https://hugo-theme-salt.okdyy75.com/
+baseURL: https://gameblog.pages.dev/
 languageCode: ja
 theme: hugo-theme-salt
 title: 気ままな雑記ブログ 
@@ -6,7 +6,7 @@ copyright: © 2024 masya
 author:
   name: masya
   email: my_email@example.com
-  url: https://example.com/my_url
+  url: https://gameblog.pages.dev/
 googleAnalytics:
 disqusShortname:
 
