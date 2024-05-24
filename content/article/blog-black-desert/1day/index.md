@@ -4,6 +4,7 @@ date = 2024-05-24T10:05:28+09:00
 draft = false 
 categories = [ "ゲーム" ]
 tags = [ "黒い砂漠" ]
+archives = ["2024年5月"]
 +++
 
 ## 黒い砂漠 復帰後の海洋系
