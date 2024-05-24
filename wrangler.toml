@@ -1,0 +1,5 @@
+name = "まったりブログ"
+pages_build_output_dir = "./public"
+[vars]
+CF_PAGES_URL="https://blog.example.com"
+HUGO_VERSION="v0.128.1+extended"
