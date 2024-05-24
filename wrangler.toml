@@ -2,4 +2,4 @@ name = "my-pages-app"
 pages_build_output_dir = "./public"
 [vars]
 CF_PAGES_URL="https://blog.example.com"
-HUGO_VERSION="v0.128.1+extended"
+HUGO_VERSION="v0.126.1+extended"
