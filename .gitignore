@@ -1,3 +1,4 @@
+# @link https://github.com/github/gitignore/blob/main/community/Golang/Hugo.gitignore
 # Generated files by hugo
 /public/
 /resources/_gen/
@@ -11,3 +12,18 @@ hugo.linux
 
 # Temporary lock file while building
 /.hugo_build.lock
+
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
+
+# others
+node_modules
+.gcp
+.ssh
