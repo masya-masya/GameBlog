@@ -1,3 +1,10 @@
+baseurl: https://blog.example/
+languageCode: ja
+theme: hugo-theme-stack
+paginate: 3
+title: 気ままなブログ
+copyright: masya
+
 module:
     hugoVersion:
         extended: true
@@ -56,7 +63,7 @@ params:
             repo:
             issueTerm: pathname
             label:
-            theme:        
+            theme: hugo-thema-stack       
 
         remark42:
             host:
