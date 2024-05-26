@@ -143,6 +143,11 @@ menu:
       weight: -90
       params:
         position: left
+    - name: 利用規約・免責事項 
+      url: /disclaimer
+      weight: -100
+      params:
+        position: right
     - name: プライバシーポリシー
       url: /privacy-policy
       weight: -100
